@@ -1,5 +1,5 @@
 # AirqualityAnalysis-Basic
-Part of Coursera programming assignment desgined to test basic R operations
+Project desgined to test fundamental R operations
 
 Successfully run on R version 3.3.3
 
